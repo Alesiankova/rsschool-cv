@@ -6,6 +6,7 @@ _E-mail:_ darya.alesiankova@tut.by \
 _Contact:_ +375 (33) 614-08-42 \
 _Address:_ Belarus, Minsk \
 _Linkedin:_ https://www.linkedin.com/in/darya-alesiankova-47b245107 
+***********************
 
 #### Carrer Summary
   I'm junior frontend developer.
